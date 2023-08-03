@@ -1,0 +1,2379 @@
+fileFormatVersion: 2
+guid: 27f72c295f29a7740a7317640ce000f3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 466
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f335ee8b7d6bc44a6b4ba74a94abd4
+      internalID: -621742646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 486
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84574fd3782d53f4994309f90dbb1277
+      internalID: -2096377630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 486
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6464da1386d50f44588bf4b9282e8946
+      internalID: 246456109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 489
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7472ea0861b954b40840e9c27c7e0b58
+      internalID: 1487208402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 489
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7720ccdb26ca34bb0cd8c697e6188f
+      internalID: -899279650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 489
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8079fdef9d1584bad4ebd2466d1519
+      internalID: -15546021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 496
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbd989625e366541b3b889674bf0ad0
+      internalID: 1908978757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 489
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f4ecbe10b9df44bbbf2037a1a2082d
+      internalID: -1639489903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 460
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337f11916e5d28f4eb68a54b646e9c71
+      internalID: 1313885409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 460
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182b98a22796b074cbc1aa7ee2d74a2e
+      internalID: -1092865875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 460
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d094c52342f00004da053901ba41644d
+      internalID: -324009441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 460
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e5fbc14b408b140864d9de3f33079f
+      internalID: -2023538394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 460
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f78fee17d4d184a960c5a24f636713
+      internalID: -2030042783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 460
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cd04a301593d64db631c19a27be403
+      internalID: -691085144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 466
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d98e4eac0e9741a3fe870836e6552
+      internalID: 1149588975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 469
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b095e8f2b6c84db08a08e5df95a16
+      internalID: -1961828697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 469
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bbb75d1c901f5489e1102e3dcbd6aa
+      internalID: -1534008661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 440
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4743f3da50ede46a874674f5e350d8
+      internalID: -2080820798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 472
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ba1c3e809093844b7ddddfbf5a181a
+      internalID: -1241482869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 472
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd77346b965fac9468abd3f98d75cbc1
+      internalID: -168474304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 426
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee174516d5653c42a6118a20f46e994
+      internalID: 1026149349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 426
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e60205c226959f40a3174e5db461a59
+      internalID: 674030182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 426
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815bfa46bb2e3eb43b0b0eac0fad5975
+      internalID: -1137024396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 424
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebde34791eafe9d42b4f3287eef9840f
+      internalID: 1522879227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 345
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee40590ff72e64599d59a923238dc0
+      internalID: 756761756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 345
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb73be0da946fb4091f87a0c0add85a
+      internalID: 590060529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 345
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2f78765a108604f812837de68d2da2
+      internalID: 1523226187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 345
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5997976b5c2ba7a4ca7d2c175d57e6b0
+      internalID: -1294470243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 440
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f54a77320f6042bd4ba55f219419f
+      internalID: -469710490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 449
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed136713d61ec9348a2a0df142e50297
+      internalID: 2004459775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 444
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560858fbe1dcf004d9e63d8fda1343a2
+      internalID: 1429114235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 444
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c5d2cc45ed63241956ccd208439fbb
+      internalID: -1993409896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 426
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f58af52a869d54d8151702316450cd
+      internalID: -702993250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 440
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e81e5b76db8324abe3a3551ca93bf4
+      internalID: -912235840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 433
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a00ad2a77529e240b36828684634b2c
+      internalID: 1811071602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 433
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f483953a0f4b41a83d6b0a412f412
+      internalID: -1207100009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 330
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c146bb627ce1142a801ecdd5d930e2
+      internalID: -1109418034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 316
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b5e20c8774b58459bc4853ee49b07f
+      internalID: -1501011655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 316
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929df7997fcf4fc479413417b4496e87
+      internalID: 1573583938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 391
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f1b702ec02b4f49a6824a3ee17d82a
+      internalID: -1517231628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 422
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0519197358dd754a8b62df672045c35
+      internalID: 579699538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 422
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af983a21f793a4ca020eb5936cb89b
+      internalID: 1362989389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 422
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8847bcbf8ecade439c9ccae63263d6f
+      internalID: 251826357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 422
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c18f15c3cd5a143ac395ed7325e72c
+      internalID: 1817879985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 342
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8896c7b6f666e41afb64240a0e6167
+      internalID: 1000286825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 376
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b65d0ea10db3a946b348b6290188003
+      internalID: -1307209363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 307
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b9ce09f6ce9b949b9ce8730743cd95
+      internalID: 237931020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 307
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629e927b5ea3c64cb52db5f5600e215
+      internalID: -1551808207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 293
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2496070b41e314595cd76472a30ad6
+      internalID: 206322975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 328
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725e8ddd682217845b87468deffa95a9
+      internalID: 763083522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 230
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339fea60f8b386d418d3b159d9afc29c
+      internalID: -23202312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 230
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86832b81e98526448527660a64a2a3e
+      internalID: -1016951988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 230
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973270d6e83ffe64f859b626cceba836
+      internalID: 2114923884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 230
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4337d5d49abbf4240b752873c1467fcb
+      internalID: 2001747033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 220
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d43bea95135fe4d9d3f884b579d6b4
+      internalID: 839911907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 206
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cda01d5217b814f93fbffe42ee68c6
+      internalID: 1393759315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 206
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08cd0fcfcf8f474a8df3445aefa174e
+      internalID: 939139956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 244
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911d1899da959f249ac581624f45ce65
+      internalID: 1165290265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 279
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78525abc5ab8f7147b227ce15fefd4ca
+      internalID: 2030085992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 192
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf314f98aba1fc6409d142ecc70da30c
+      internalID: -1841077919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 192
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fc40bc45a5c954e8b37cbf8908f242
+      internalID: 956132909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 196
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f11d0fdb71f4944b1396e50882bf67
+      internalID: -398970043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 230
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d634bfcb8aef0945b4a83f6a6f62c8e
+      internalID: 1997357773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 110
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e292c3c3124b4458a8b892016a1732
+      internalID: 359750897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 166
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b97f31ad5e2df47b8b4d46d8c9ccd2
+      internalID: -1522574553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 145
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c9aca2849c854ca1b9fb90605d58c
+      internalID: 1252933578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 145
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb332283087fd2b4e8e6e94303ebc538
+      internalID: 929218768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 147
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5334ea98b42484439bfe56cda0b9c35
+      internalID: -1948366421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 115
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177278ebc456edc4a971715b63cc7c5e
+      internalID: -704139315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 115
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a0621238fddc428ce9050fe257da7
+      internalID: -322171934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 115
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6bfbcb6791ae944b3acabe64c49c4f
+      internalID: -61025282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 115
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628888b91440ffb4cb19ae9a1e71bab9
+      internalID: -50150862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 115
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6085a56e6401ed34a9c93d9e0df80e6a
+      internalID: -1317967974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 77
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f1fd8de6a5cc749bcd6615fbe32c30
+      internalID: 796544993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 77
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc98b5e940a8e454b834deef01c3f9f4
+      internalID: 696474980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 138
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55995e40fc99c46a4db5e1e8233200
+      internalID: -1435654968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 97
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61308d3191b65da4abe8b05614d0ff5e
+      internalID: -93858516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 98
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397b393253a407e4aae1705c270338ae
+      internalID: -437402686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 110
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28b4ab0c2ccfd64daf0fa935da16aee
+      internalID: -1523571188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 110
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db412611810cf442bebea26144d8221
+      internalID: -43238166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9dc766d14d303479bfb8f5a778d955
+      internalID: 2043085837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b93f8274f8fa84195b729c1190b0fc
+      internalID: -999069212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a269f4ad67e94034ca71af36b603a2d8
+      internalID: -210112605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 0
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569997e7fa8ee9441a4723a1680d56fd
+      internalID: -1591846611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea626a212e92fa45be1703c4b12834a
+      internalID: -1763212283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295acc8189232374489f0edf682688f0
+      internalID: 809519856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 49
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5315fbf15476164592833b3d104fca9
+      internalID: -1197273890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 49
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f271516753bcf314ba611cb618b0a139
+      internalID: -1688539664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 41
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce8e3c09dd22c14c8b8645c742049f8
+      internalID: 1322523201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 41
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f631ccee6dec43b4ca72a4833c5dca97
+      internalID: 1498612474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 62
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8500bbfe3dcc64589ab52fa006d691
+      internalID: -2068058499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ffad8bdba6eb549931a896cbefe0d3
+      internalID: -412376949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 51
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad5e2cabed38ff45beba0bcb0a235ad
+      internalID: 1618612079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb02cfac4236fd449178116857e6357
+      internalID: 2147321206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bb3f138ef44e24293477496f8a8cab
+      internalID: 2047486120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 40
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6eeb0ab5afbd64c9a8bd88401bf6ca
+      internalID: -996567236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459ba6a99683cd4694fbf6569a188e9
+      internalID: 1326540733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 30
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c04abb89c62a0046a2ab46c86842d71
+      internalID: 1710757595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53046b819aa7e6143913b1879d7d253e
+      internalID: 405474166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 20
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529d45b4be8227a4c8463943842f3ff0
+      internalID: -1799463298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 10
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaf4353a07800f4db4f0933af62871f
+      internalID: -2019879573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipsMiscellaneous_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f53ae8e57ef7e4e905b384e9cd51b4
+      internalID: 625541865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shipsMiscellaneous_sheet_0: -621742646
+      shipsMiscellaneous_sheet_1: -2096377630
+      shipsMiscellaneous_sheet_10: -324009441
+      shipsMiscellaneous_sheet_100: -2019879573
+      shipsMiscellaneous_sheet_101: 625541865
+      shipsMiscellaneous_sheet_11: -2023538394
+      shipsMiscellaneous_sheet_12: -2030042783
+      shipsMiscellaneous_sheet_13: -691085144
+      shipsMiscellaneous_sheet_14: 1149588975
+      shipsMiscellaneous_sheet_15: -1961828697
+      shipsMiscellaneous_sheet_16: -1534008661
+      shipsMiscellaneous_sheet_17: -2080820798
+      shipsMiscellaneous_sheet_18: -1241482869
+      shipsMiscellaneous_sheet_19: -168474304
+      shipsMiscellaneous_sheet_2: 246456109
+      shipsMiscellaneous_sheet_20: 1026149349
+      shipsMiscellaneous_sheet_21: 674030182
+      shipsMiscellaneous_sheet_22: -1137024396
+      shipsMiscellaneous_sheet_23: 1522879227
+      shipsMiscellaneous_sheet_24: 756761756
+      shipsMiscellaneous_sheet_25: 590060529
+      shipsMiscellaneous_sheet_26: 1523226187
+      shipsMiscellaneous_sheet_27: -1294470243
+      shipsMiscellaneous_sheet_28: -469710490
+      shipsMiscellaneous_sheet_29: 2004459775
+      shipsMiscellaneous_sheet_3: 1487208402
+      shipsMiscellaneous_sheet_30: 1429114235
+      shipsMiscellaneous_sheet_31: -1993409896
+      shipsMiscellaneous_sheet_32: -702993250
+      shipsMiscellaneous_sheet_33: -912235840
+      shipsMiscellaneous_sheet_34: 1811071602
+      shipsMiscellaneous_sheet_35: -1207100009
+      shipsMiscellaneous_sheet_36: -1109418034
+      shipsMiscellaneous_sheet_37: -1501011655
+      shipsMiscellaneous_sheet_38: 1573583938
+      shipsMiscellaneous_sheet_39: -1517231628
+      shipsMiscellaneous_sheet_4: -899279650
+      shipsMiscellaneous_sheet_40: 579699538
+      shipsMiscellaneous_sheet_41: 1362989389
+      shipsMiscellaneous_sheet_42: 251826357
+      shipsMiscellaneous_sheet_43: 1817879985
+      shipsMiscellaneous_sheet_44: 1000286825
+      shipsMiscellaneous_sheet_45: -1307209363
+      shipsMiscellaneous_sheet_46: 237931020
+      shipsMiscellaneous_sheet_47: -1551808207
+      shipsMiscellaneous_sheet_48: 206322975
+      shipsMiscellaneous_sheet_49: 763083522
+      shipsMiscellaneous_sheet_5: -15546021
+      shipsMiscellaneous_sheet_50: -23202312
+      shipsMiscellaneous_sheet_51: -1016951988
+      shipsMiscellaneous_sheet_52: 2114923884
+      shipsMiscellaneous_sheet_53: 2001747033
+      shipsMiscellaneous_sheet_54: 839911907
+      shipsMiscellaneous_sheet_55: 1393759315
+      shipsMiscellaneous_sheet_56: 939139956
+      shipsMiscellaneous_sheet_57: 1165290265
+      shipsMiscellaneous_sheet_58: 2030085992
+      shipsMiscellaneous_sheet_59: -1841077919
+      shipsMiscellaneous_sheet_6: 1908978757
+      shipsMiscellaneous_sheet_60: 956132909
+      shipsMiscellaneous_sheet_61: -398970043
+      shipsMiscellaneous_sheet_62: 1997357773
+      shipsMiscellaneous_sheet_63: 359750897
+      shipsMiscellaneous_sheet_64: -1522574553
+      shipsMiscellaneous_sheet_65: 1252933578
+      shipsMiscellaneous_sheet_66: 929218768
+      shipsMiscellaneous_sheet_67: -1948366421
+      shipsMiscellaneous_sheet_68: -704139315
+      shipsMiscellaneous_sheet_69: -322171934
+      shipsMiscellaneous_sheet_7: -1639489903
+      shipsMiscellaneous_sheet_70: -61025282
+      shipsMiscellaneous_sheet_71: -50150862
+      shipsMiscellaneous_sheet_72: -1317967974
+      shipsMiscellaneous_sheet_73: 796544993
+      shipsMiscellaneous_sheet_74: 696474980
+      shipsMiscellaneous_sheet_75: -1435654968
+      shipsMiscellaneous_sheet_76: -93858516
+      shipsMiscellaneous_sheet_77: -437402686
+      shipsMiscellaneous_sheet_78: -1523571188
+      shipsMiscellaneous_sheet_79: -43238166
+      shipsMiscellaneous_sheet_8: 1313885409
+      shipsMiscellaneous_sheet_80: 2043085837
+      shipsMiscellaneous_sheet_81: -999069212
+      shipsMiscellaneous_sheet_82: -210112605
+      shipsMiscellaneous_sheet_83: -1591846611
+      shipsMiscellaneous_sheet_84: -1763212283
+      shipsMiscellaneous_sheet_85: 809519856
+      shipsMiscellaneous_sheet_86: -1197273890
+      shipsMiscellaneous_sheet_87: -1688539664
+      shipsMiscellaneous_sheet_88: 1322523201
+      shipsMiscellaneous_sheet_89: 1498612474
+      shipsMiscellaneous_sheet_9: -1092865875
+      shipsMiscellaneous_sheet_90: -2068058499
+      shipsMiscellaneous_sheet_91: -412376949
+      shipsMiscellaneous_sheet_92: 1618612079
+      shipsMiscellaneous_sheet_93: 2147321206
+      shipsMiscellaneous_sheet_94: 2047486120
+      shipsMiscellaneous_sheet_95: -996567236
+      shipsMiscellaneous_sheet_96: 1326540733
+      shipsMiscellaneous_sheet_97: 1710757595
+      shipsMiscellaneous_sheet_98: 405474166
+      shipsMiscellaneous_sheet_99: -1799463298
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
